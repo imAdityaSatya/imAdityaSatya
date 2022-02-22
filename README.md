@@ -1,3 +1,10 @@
+<div><img src="https://github.com/imAdityaSatya/imAdityaSatya/blob/main/assets/hello.gif"/></div>
+<h1 align="center"> 
+
+  **_I'm Aditya Satya_**   
+
+ </h1>
+ 
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in... well its a secret
 - 🌱 I’m currently learning... whatever life teaches
