@@ -11,6 +11,9 @@
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=city_lights&show_icons=true&hide_border=true">
 </div>  
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=city_lights">
+</div>
 
 <br/>
 <div>
