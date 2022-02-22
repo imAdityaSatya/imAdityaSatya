@@ -1,4 +1,4 @@
-<div><img src="https://github.com/imAdityaSatya/imAdityaSatya/blob/main/assets/hello.gif"/></div>
+<div><img src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif"/></div>
 <h1 align="center"> 
 
   **_I'm Aditya Satya_**   
