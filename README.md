@@ -1,5 +1,5 @@
 <div><img src="https://c.tenor.com/RvMZMiTblfQAAAAM/oh-hey-oh-hey-there.gif"/></div>
-<br/> 
+<
  
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in... well its a secret
@@ -7,9 +7,9 @@
 - 💞️ I’m looking to collaborate on... not sure but I'm open to suggestions
 - 📫 How to reach me... sorry I don't talk to strangers
 
-<br/> 
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&count_private=true&theme=city_lights&hide_border=true" align="left" /></div>  
-<br/> 
+ 
  
 
 <!---
