@@ -7,10 +7,7 @@
 - 📫 How to reach me... sorry I don't talk to strangers
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&count_private=true&theme=city_lights&hide_border=true" align="left" /></div>  
-<br/>  
-
-##![](https://github-readme-stats.vercel.app/api?username=Raviruler&theme=city_lights&show_icons=true) <br>
-##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviruler&layout=compact&langs_count=8&theme=city_lights)
+<br/> 
  
 
 <!---
