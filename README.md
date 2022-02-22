@@ -1,9 +1,8 @@
 <div><img src="https://c.tenor.com/RvMZMiTblfQAAAAM/oh-hey-oh-hey-there.gif"/></div>
-<h1 align="center"> 
 
-  **_I'm Aditya Satya_**   
-
- </h1>
+##<h1 align="center"> 
+##  **_I'm Aditya Satya_**   
+## </h1>
  
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in... well its a secret
@@ -11,7 +10,7 @@
 - 💞️ I’m looking to collaborate on... not sure but I'm open to suggestions
 - 📫 How to reach me... sorry I don't talk to strangers
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
