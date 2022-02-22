@@ -1,4 +1,4 @@
-<div><img src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif"/></div>
+<div><img src="https://c.tenor.com/RvMZMiTblfQAAAAM/oh-hey-oh-hey-there.gif"/></div>
 <h1 align="center"> 
 
   **_I'm Aditya Satya_**   
@@ -10,6 +10,10 @@
 - 🌱 I’m currently learning... whatever life teaches
 - 💞️ I’m looking to collaborate on... not sure but I'm open to suggestions
 - 📫 How to reach me... sorry I don't talk to strangers
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 <!---
 imAdityaSatya/imAdityaSatya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
