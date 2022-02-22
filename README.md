@@ -11,6 +11,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=city_lights&show_icons=true&hide_border=true" align="left">
 </div>  
 </p>
+<br>
 
 <div>
   <p>
