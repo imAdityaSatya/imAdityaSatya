@@ -1,7 +1,6 @@
 <div><img src="https://c.tenor.com/RvMZMiTblfQAAAAM/oh-hey-oh-hey-there.gif"/></div>
 
-<br/>
-<b>__About Me__:</b>
+<b></b>
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in... well its a secret
 - 🌱 I’m currently learning... whatever life teaches
@@ -9,17 +8,16 @@
 - 📫 How to reach me... sorry I don't talk to strangers
 
 <br/>
-<p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=city_lights&show_icons=true&hide_border=true" align="left">
-</div>  
-</p>
-<br>
 
+<div><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=city_lights&show_icons=true&hide_border=true">
+</div>  
+
+<br/>
 <div>
-  <p>
-    <a href="https://www.linkedin.com/in/aditya-satya-55174b1a5/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="px" height="30px">
-    </a>
-   </p>
+<a href="https://www.linkedin.com/in/aditya-satya-55174b1a5/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="px" height="30px">
+</a>  
+<a href="https://auth.geeksforgeeks.org/user/adityasatya09/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" width="px" height="25px">
+</a>
 </div>
 
 <!---
