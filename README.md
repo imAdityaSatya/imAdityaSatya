@@ -1,4 +1,4 @@
-<div><img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif"/></div>
+<div><img width="20%" src="https://i.ibb.co/zXt2Vz0/Whats-App-Image-2023-02-10-at-19-14-10.jpg"/></div>
 
 <b></b>
 - 👋 Hi, I’m Aditya
@@ -16,6 +16,10 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=react&hide_border=true">
 </div>
 
+<div>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=imAdityaSatya &theme=react &hide_border=true">
+</div>
+  
 ### My other profiles:
 <div>
 <a href="https://www.linkedin.com/in/aditya-satya-55174b1a5/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="px" height="30px">
