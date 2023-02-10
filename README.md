@@ -12,10 +12,10 @@
 <div><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=react&hide_border=true">  
 </div>  
 
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=imAdityaSatya&theme=react&hide_border=true">
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?user=imAdityaSatya&theme=react&hide_border=true">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&langs_count=8&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=react&hide_border=true)
 
 <div>
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=react&hide_border=true">
