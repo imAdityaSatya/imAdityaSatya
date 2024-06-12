@@ -4,18 +4,19 @@
 </div>
 
 <b></b>
-- 👀 I’m interested in... well its a secret
+- 👀 I’m interested in... well it's a secret
 - 🌱 I’m currently learning... whatever life teaches
 - 💞️ I’m looking to collaborate on... not sure but I'm open to suggestions
-- 📫 How to reach me... sorry I don't talk to strangers
+- 📫 How to reach me... even I don't know about it
 
 <br/>
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=react&hide_border=true">  
-</div>  
+<!--<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=react&hide_border=true">  
+</div> -->
 
 <div>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=react&hide_border=false">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=react&hide_border=false">
 </div>
 
 <div>
