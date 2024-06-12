@@ -4,7 +4,6 @@
 </div>
 
 <b></b>
-- 👋 Hi, I’m Aditya
 - 👀 I’m interested in... well its a secret
 - 🌱 I’m currently learning... whatever life teaches
 - 💞️ I’m looking to collaborate on... not sure but I'm open to suggestions
