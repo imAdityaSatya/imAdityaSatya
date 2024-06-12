@@ -1,4 +1,6 @@
-<div><img width="20%" src="https://media.licdn.com/dms/image/D5635AQHRxcw55czbLg/profile-framedphoto-shrink_400_400/0/1713842147359?e=1718604000&v=beta&t=swiDU_8mBluNlb7Wk-quja2b804wX5m5lB6wjQY6eXQ"/></div>
+<div>
+  <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">, I'm Aditya</h1>
+</div>
 
 <b></b>
 - 👋 Hi, I’m Aditya
