@@ -1,5 +1,9 @@
 <div>
-  <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">, I'm Aditya</h1>
+  <a align="centre"  href="#"><img width="auto" height="auto" src="https://img1.hotstarext.com/image/upload/w_200,h_200,c_fill/feature/profile/5.png" height="175px" /></a>
+</div>
+
+<div>
+  <h1 align="centre">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">, I'm Aditya</h1>
 </div>
 
 <b></b>
