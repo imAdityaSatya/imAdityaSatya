@@ -1,4 +1,4 @@
-<div><img width="20%" src="https://i.ibb.co/zXt2Vz0/Whats-App-Image-2023-02-10-at-19-14-10.jpg"/></div>
+<div><img width="20%" src="https://media.licdn.com/dms/image/D5635AQHRxcw55czbLg/profile-framedphoto-shrink_400_400/0/1713842147359?e=1718604000&v=beta&t=swiDU_8mBluNlb7Wk-quja2b804wX5m5lB6wjQY6eXQ"/></div>
 
 <b></b>
 - 👋 Hi, I’m Aditya
