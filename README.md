@@ -5,10 +5,10 @@
 
 <div>
 <p align="center">
-👀 I’m interested in... well it's a secret <br>
+👀 I’m interested in... well a lot of things <br>
 🌱 I’m currently learning... whatever life teaches <br>
 💞️ I’m looking to collaborate on... not sure but I'm open to suggestions <br>
-📫 How to reach me... even I don't know about it <br>
+📫 How to reach me... even I don't know about that <br>
 </p>
 </div>
 
