@@ -33,7 +33,7 @@
 
 <div>
   <p align="center">
-    My other profiles:<br>
+    Other Profiles:<br>
     <a href="https://www.linkedin.com/in/aditya-satya-55174b1a5/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="px" height="30px"></a>,  
     <a href="https://auth.geeksforgeeks.org/user/adityasatya09/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" width="px" height="25px"></a>
   </p>
