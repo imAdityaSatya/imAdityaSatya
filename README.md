@@ -16,6 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imAdityaSatya&theme=react&hide_border=true">  
 </div> -->
 
+<br>
 <div>
   <p align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=react&hide_border=true" style="margin-bottom: 20px;">
@@ -37,6 +38,7 @@
     <a href="https://auth.geeksforgeeks.org/user/adityasatya09/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" width="px" height="25px"></a>
   </p>
 </div>
+<br>
 
 <!---
 imAdityaSatya/imAdityaSatya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
