@@ -19,8 +19,7 @@
 <br>
 <div>
   <p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&langs_count=6&theme=react"style="margin-bottom: 20px;">
-<!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&layout=compact&langs_count=8&theme=react&hide_border=true"  -->
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAdityaSatya&langs_count=6&theme=react&layout=compact&hide_border=true" style="margin-bottom: 20px;">
   </p>
 </div> 
 <br>
